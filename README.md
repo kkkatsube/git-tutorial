@@ -22,6 +22,9 @@ test
 ``System.out.println( "`Hello World!!" );``
 
 ## code3
+```ruby:qiita.rb
+puts 'The best way to log and share programmers knowledge.'
+```
 
 # header1
 ## header2
