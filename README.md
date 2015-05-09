@@ -9,6 +9,26 @@ fix-B
 feature-C
 feature-D
 
+# Link
+[Google](http://www.google.co.jp)
+
+![icon](http://qiita.com/icons/favicons/public/apple-touch-icon.png)
+
+# table
+| a  | b  | c  |
+|:---|:--:|---:|
+| a1 | b1 | c1 |
+| a2 | b2 | c2 |
+
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
+
 # font
 
 test
