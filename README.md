@@ -14,6 +14,38 @@ feature-D
 test
 *itaric*
 **bold**
+~~strice~~
+
+# list
+* one
+* two
+* three
+
+1. one
+1. two
+1. three
+
+<dl>
+ <dt>apple</dt>
+ <dd>red</dd>
+ <dd>fruits</dd>
+ <dt>orange</dt>
+ <dd>fruits</dd>
+</dl>
+
+## blockquotes
+
+> this
+
+> is
+
+> test
+
+>> what?
+>> is
+>> this
+
+> OK.
 
 ## code
 `System.out.println( "Hello World!!" );`
